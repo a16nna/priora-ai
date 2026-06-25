@@ -1,8 +1,8 @@
-# Priora AI
+# Acadia AI
 
 > Turn unstructured information into actionable deadlines, tasks, and priorities using AI.
 
-Priora AI is an AI-powered information intelligence platform that helps users never miss important deadlines, tasks, announcements, or action items.
+Acadia AI is an AI-powered information intelligence platform that helps users never miss important deadlines, tasks, announcements, or action items.
 
 It processes content from emails, WhatsApp messages, PDFs, screenshots, notices, and other documents, automatically extracting important information and organizing it into a unified dashboard.
 
@@ -36,7 +36,7 @@ Keeping track of everything manually is inefficient and error-prone.
 
 ## Solution
 
-Priora AI uses AI-powered information extraction to identify and organize important information from unstructured content.
+Acadia AI uses AI-powered information extraction to identify and organize important information from unstructured content.
 
 Users can:
 
@@ -64,7 +64,7 @@ Eligible branches: CSE, AIML.
 Assessment begins June 25.
 ```
 
-Priora AI extracts:
+Acadia AI extracts:
 
 - Title
 - Category
